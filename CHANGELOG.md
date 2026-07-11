@@ -1,3 +1,10 @@
+## [1.27.1](https://github.com/Owloops/claude-powerline/compare/v1.27.0...v1.27.1) (2026-07-11)
+
+
+### Bug Fixes
+
+* **tui:** honor cache timer remaining mode ([d7c68cf](https://github.com/Owloops/claude-powerline/commit/d7c68cf1a68fe79349e9a3900446820878ca669b))
+
 # [1.27.0](https://github.com/Owloops/claude-powerline/compare/v1.26.0...v1.27.0) (2026-05-25)
 
 
